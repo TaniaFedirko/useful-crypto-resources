@@ -1,6 +1,6 @@
 # Postquantum Cryptography
 
-## PQCrypto 2017
+## PQCrypto 2017.
 
 
 * [A new rank metric codes based encryption scheme](https://eprint.iacr.org/2017/236.pdf) by Pierre Loidreau. [*]
@@ -167,14 +167,15 @@ Pavol Zajac, Qian Guo and Thomas Johansson.
   * Shi Bai and Steven D. Galbraith. An Improved Compression Technique for
     Signatures Based on Learning with Errors. In Topics in Cryptology – CT-RSA
     2014, volume 8366 of LNCS. Springer, 2014.
-  * Erdem Alkim, Nina Bindel, Johannes Buchmann, Özgür Dagdelen, and Peter
+  * Erdem Alkim, Nina Bindel, Johannes Buchmann, Özgür Dagdelen, and Peter
     Schwabe. TESLA: Tightly-Secure Efficient Signatures from Standard Lattices.
     Cryptology ePrint Archive, Report 2015/755, version 20161117:055833, 2015.
-  * Dan Boneh, Özgür Dagdelen, Marc Fischlin, Anja Lehmann, Christian Schaffner,
+  * Dan Boneh, Özgür Dagdelen, Marc Fischlin, Anja Lehmann, Christian Schaffner,
     and Mark Zhandry. Random Oracles in a Quantum World. In ASIACRYPT 2011,
     volume 7073 of LNCS. Springer, 2011.
   * Charles H. Bennett, Ethan Bernstein, Gilles Brassard, and Umesh Vazirani.
-    Strengths and Weaknesses of Quantum Computing. SIAM J. Comput., 26(5),    1997.
+    Strengths and Weaknesses of Quantum Computing. SIAM J. Comput., 26(5),
+    1997.
   * Jonathan Katz and Nan Wang. Efficiency Improvements for Signature Schemes
     with Tight Security Reductions. In CCS 2003. ACM, 2003.
   * Vadim Lyubashevsky. Lattice Signatures without Trapdoors. In EUROCRYPT
